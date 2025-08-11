@@ -1,6 +1,6 @@
 # Intelligent-Expense-Management-Platform
 
-# 💼 Intelligent Expense Management Platform  
+
 *AI-powered expense tracking with automated receipt processing*  
 
 ![Dashboard](https://github.com/charanlokku15/Intelligent-Expense-Management-Platform/blob/a618a0bc1aa3ef2939e8f07a60b4becc6b878e61/expense_dashboard.png)  
