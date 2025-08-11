@@ -7,9 +7,9 @@
 
 ## 🔥 Key Features  
 - **JWT Authentication**  
-  ![Login Flow]()  
+  ![Login Flow](https://github.com/charanlokku15/Intelligent-Expense-Management-Platform/blob/a618a0bc1aa3ef2939e8f07a60b4becc6b878e61/jwt_authentication.png)  
 - **Expense CRUD Operations**  
-  ![API Endpoints](https://github.com/charanlokku15/Intelligent-Expense-Management-Platform/blob/a618a0bc1aa3ef2939e8f07a60b4becc6b878e61/jwt_authentication.png)  
+  ![API Endpoints](https://github.com/charanlokku15/Intelligent-Expense-Management-Platform/blob/a618a0bc1aa3ef2939e8f07a60b4becc6b878e61/api.png)  
 - **Admin Dashboard**  
   ![Django Admin](https://github.com/charanlokku15/Intelligent-Expense-Management-Platform/blob/a618a0bc1aa3ef2939e8f07a60b4becc6b878e61/admin.png)  
 - **User Registration**  
